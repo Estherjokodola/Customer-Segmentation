@@ -1,4 +1,4 @@
-# Customer Segmentation Readme
+# Customer Segmentation
 
 This README provides an overview of the customer segmentation project, its objectives, methods, and how to use the code and resources provided.
 
