@@ -11,8 +11,7 @@ This README provides an overview of the customer segmentation project, its objec
 5. [Usage](#usage)
 6. [Folder Structure](#folder-structure)
 7. [Dependencies](#dependencies)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [Contribution](#contribution)
 
 ## Project Overview
 
@@ -47,13 +46,7 @@ We employ the following techniques and methodologies to perform customer segment
 
 ## Data Sources
 
-The project may use various data sources, including but not limited to:
-
-- Customer databases
-- Sales transaction records
-- Demographic data
-- Website and app usage data
-- Customer surveys
+The project was sourced from Kaggle
 
 ## Usage
 
@@ -90,13 +83,8 @@ You can install these dependencies using `pip`:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
-## Contributing
+## Contributor
+Esther Jokodola
 
-If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-For any questions or issues, please contact [project maintainer's name and email].
+For any questions or issues, please contact [Esther Jokodola and estherjokodola21@gmail.com].
 
