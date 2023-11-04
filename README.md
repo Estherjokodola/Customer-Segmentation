@@ -30,7 +30,7 @@ The main objective of this project is to create a customer segmentation model th
 
 We employ the following techniques and methodologies to perform customer segmentation:
 
-1. **Data Collection**: The data was collected from kaggle
+1. **Data Collection**: The data was collected from kaggle.
 
 2. **Data Preprocessing**: Clean, transform, and normalize the data to make it suitable for analysis. This includes handling missing values and outliers.
 
